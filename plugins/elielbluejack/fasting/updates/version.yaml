@@ -1,0 +1,23 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table elielbluejack_fasting_'
+    - builder_table_create_elielbluejack_fasting_.php
+1.0.3:
+    - 'Created table elielbluejack_fasting_prayerpoints'
+    - builder_table_create_elielbluejack_fasting_prayerpoints.php
+1.0.4:
+    - 'Updated table elielbluejack_fasting_'
+    - builder_table_update_elielbluejack_fasting_days.php
+1.0.5:
+    - 'Updated table elielbluejack_fasting_days'
+    - builder_table_update_elielbluejack_fasting_days_2.php
+1.0.6:
+    - 'Updated table elielbluejack_fasting_prayerpoints'
+    - builder_table_update_elielbluejack_fasting_prayerpoints.php
+1.0.7:
+    - 'Updated table elielbluejack_fasting_prayerpoints'
+    - builder_table_update_elielbluejack_fasting_prayerpoints_2.php
+1.0.8:
+    - 'Updated table elielbluejack_fasting_prayerpoints'
+    - builder_table_update_elielbluejack_fasting_prayerpoints_3.php

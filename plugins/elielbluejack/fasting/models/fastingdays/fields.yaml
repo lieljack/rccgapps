@@ -1,0 +1,27 @@
+fields:
+    day_number:
+        label: Day
+        span: auto
+        type: number
+    date:
+        label: Date
+        mode: datetime
+        span: auto
+        type: datepicker
+    topic:
+        label: Topic
+        span: auto
+        type: text
+    text:
+        label: Text
+        span: auto
+        type: text
+    introduction:
+        label: Introduction
+        size: ''
+        span: auto
+        type: textarea
+    avaliable:
+        label: Avaliable
+        span: auto
+        type: switch

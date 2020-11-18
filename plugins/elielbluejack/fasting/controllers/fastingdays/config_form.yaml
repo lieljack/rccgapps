@@ -1,0 +1,10 @@
+name: FastingDays
+form: $/elielbluejack/fasting/models/fastingdays/fields.yaml
+modelClass: ElielBluejack\Fasting\Models\FastingDays
+defaultRedirect: elielbluejack/fasting/fastingdays
+create:
+    redirect: 'elielbluejack/fasting/fastingdays/update/:id'
+    redirectClose: elielbluejack/fasting/fastingdays
+update:
+    redirect: elielbluejack/fasting/fastingdays
+    redirectClose: elielbluejack/fasting/fastingdays

@@ -1,0 +1,4 @@
+title: FastingDays
+modelClass: ElielBluejack\Fasting\Models\FastingDays
+toolbar:
+    buttons: reorder_toolbar

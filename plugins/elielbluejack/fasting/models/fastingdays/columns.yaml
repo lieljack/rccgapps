@@ -1,0 +1,16 @@
+columns:
+    day_number:
+        label: Day
+        type: number
+        searchable: true
+        sortable: true
+    date:
+        label: Date
+        type: date
+        searchable: true
+        sortable: true
+    topic:
+        label: Topic
+        type: text
+        searchable: true
+        sortable: true

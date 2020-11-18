@@ -1,0 +1,10 @@
+name: PrayerPoints
+form: $/elielbluejack/fasting/models/prayerpoints/fields.yaml
+modelClass: ElielBluejack\Fasting\Models\PrayerPoints
+defaultRedirect: elielbluejack/fasting/prayerpoints
+create:
+    redirect: 'elielbluejack/fasting/prayerpoints/update/:id'
+    redirectClose: elielbluejack/fasting/prayerpoints
+update:
+    redirect: elielbluejack/fasting/prayerpoints
+    redirectClose: elielbluejack/fasting/prayerpoints

@@ -1,0 +1,12 @@
+list: $/elielbluejack/fasting/models/prayerpoints/columns.yaml
+modelClass: ElielBluejack\Fasting\Models\PrayerPoints
+title: PrayerPoints
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+recordsPerPage: 20
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'elielbluejack/fasting/prayerpoints/update/:id'

@@ -1,0 +1,16 @@
+plugin:
+    name: 'elielbluejack.fasting::lang.plugin.name'
+    description: 'elielbluejack.fasting::lang.plugin.description'
+    author: 'Eliel Bluejack'
+    icon: oc-icon-flickr
+    homepage: ''
+navigation:
+    fasting-days:
+        label: 'Fasting Days'
+        url: elielbluejack/fasting/fastingdays
+        icon: icon-heartbeat
+        sideMenu:
+            side-menu-item:
+                label: 'Prayer Points'
+                url: elielbluejack/fasting/prayerpoints
+                icon: icon-sitemap

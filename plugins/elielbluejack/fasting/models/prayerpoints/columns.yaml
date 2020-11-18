@@ -1,0 +1,11 @@
+columns:
+    prayer_number:
+        label: 'Prayer Point Number'
+        type: number
+        searchable: true
+        sortable: true
+    prayerpoint:
+        label: 'Prayer Point'
+        type: text
+        searchable: true
+        sortable: true

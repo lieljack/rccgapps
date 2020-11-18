@@ -1,0 +1,4 @@
+title: PrayerPoints
+modelClass: ElielBluejack\Fasting\Models\PrayerPoints
+toolbar:
+    buttons: reorder_toolbar

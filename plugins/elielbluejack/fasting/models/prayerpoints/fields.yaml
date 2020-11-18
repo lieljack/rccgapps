@@ -1,0 +1,16 @@
+fields:
+    prayer_number:
+        label: 'Prayer Number'
+        span: auto
+        type: number
+    prayerpoint:
+        label: 'Prayer Point'
+        size: ''
+        span: auto
+        type: textarea
+    fasting_day:
+        label: 'Fasting Day'
+        span: auto
+        nameFrom: date
+        descriptionFrom: description
+        type: relation
